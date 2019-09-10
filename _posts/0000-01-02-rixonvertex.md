@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Johny 5 is alive!
 Use the left arrow to go back!
